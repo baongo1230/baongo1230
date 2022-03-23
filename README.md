@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @baongo1230
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I'm Quoc Bao
+- I am a student who is not good at coding
+- I come here to study coding better
+- Pls help me!!!
+-- Thank you <3
 
 <!---
 baongo1230/baongo1230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
